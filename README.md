@@ -4,7 +4,7 @@
 <ul>
   <li>User can create account</li>
   <ul>
-    <li>Account no is generated based on ""</li>
+    <li>Account no is generated using <b>Luhn algorithm<b></li>
     <li>Pin is generated randomly</li>
   </ul>
   <li>User can login to existing account</li>
