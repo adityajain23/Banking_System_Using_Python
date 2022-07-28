@@ -1,4 +1,4 @@
-# pyhton-Banking-system
+# Banking System Using Python
 
 <h3>I have created a basic Banking System with given functionalities:</h3>
 <ul>
